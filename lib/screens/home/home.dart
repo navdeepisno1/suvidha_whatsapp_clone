@@ -7,8 +7,7 @@ import 'package:suvidha_whatsapp_clone_ui/screens/status/status.dart';
 import 'package:suvidha_whatsapp_clone_ui/utils/widgets/custom_text.dart';
 
 class HomeScreen extends StatefulWidget {
-  const HomeScreen({key, this.cameras}) : super(key: key);
-  final List<CameraDescription> cameras;
+  const HomeScreen({key}) : super(key: key);
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }

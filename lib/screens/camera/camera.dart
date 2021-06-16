@@ -1,6 +1,5 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:suvidha_whatsapp_clone_ui/main.dart';
 
 class CameraScreen extends StatefulWidget {
   const CameraScreen({key}) : super(key: key);
